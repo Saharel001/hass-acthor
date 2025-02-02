@@ -1,6 +1,6 @@
 DEVICE_NAME = "AC•THOR"
 
-DOMAIN = "acthor"
+DOMAIN = "mypv"
 ACTHOR_DATA = f"{DOMAIN}-data"
 
 CONF_POWER_ENTITY_ID = "power_entity_id"
